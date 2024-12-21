@@ -26,7 +26,7 @@ With Cloudflare Email Routing you can create free disposable emails that forward
 ### Use the app:
 You can choose to use the hosted version, **[x2.email](https://x2.email)**, or host the application yourself:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjessetinell%2Fx2.email)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%crazyDeveloperz%2Fx2.email)
 
 
 ## 📖 About
